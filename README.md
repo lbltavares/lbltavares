@@ -1,8 +1,3 @@
-Hi, I'm Lucas (aka lbltavares) 👋
-
-I am a Software Engineer, passionate about learning new technologies and the open-source community. I work as a full-stack developer, currently involved with Python3, Javascript, Typescript, Node.js, MongoDB, C#, Java, Vuejs and Linux.
-
-
 <div>
     <a href="https://www.linkedin.com/in/lucas-laborne-b94985137?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bf1ZzD3DASDmm9Iw%2FcUuW0g%3D%3D">
         <img style="border-radius: 5px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
