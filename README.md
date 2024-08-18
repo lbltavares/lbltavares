@@ -51,5 +51,3 @@
 <hr>
 
 <br>
-
-[PGP Key: B5690EEEBB952194](https://keys.openpgp.org/vks/v1/by-fingerprint/B31E10199D209F92DB82B5BF8FCC54456E7112DB)
